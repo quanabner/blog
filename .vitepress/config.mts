@@ -33,12 +33,12 @@ export default defineConfig({
         },
       ],
 
-      // 当用户位于 `python` 目录时，会显示此侧边栏
-      "/python/": [
+      // 当用户位于 `nest` 目录时，会显示此侧边栏
+      "/nest/": [
         {
-          text: "python相关",
+          text: "nest相关",
           items: [
-            { text: "python1", link: "/python/python-examples" },
+            { text: "nest1", link: "/nest/nest-examples" },
           ],
         },
       ],
