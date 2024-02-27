@@ -44,6 +44,6 @@ export default defineConfig({
       ],
     },
 
-    socialLinks: [{ icon: "github", link: "https://github.com/quanabner" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/quanabner/blog" }],
   },
 });
