@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "你好，我是权权代表"
   text: "欢迎来到我的个人博客"
-  tagline: Love and Peace
+  tagline: 本站点由vitepress搭建，Love and Peace
   actions:
     - theme: brand
       text: javascript相关
