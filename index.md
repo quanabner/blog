@@ -14,15 +14,15 @@ hero:
       text: node.js相关
       link: /node/api-examples
     - theme: brand
-      text: python相关
-      link: /python/python-examples
+      text: nest相关
+      link: /nest/nest-examples
 
 features:
-  - title: Feature A
+  - title: javascript
     details: test Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: node.js
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: nest.js
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
